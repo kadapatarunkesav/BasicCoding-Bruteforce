@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch primeNumber",
+            "request": "launch",
+            "mainClass": "com.basicCoding.primeNumber",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch leapYear",
+            "request": "launch",
+            "mainClass": "com.basicCoding.leapYear",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch greatThreeNumbers",
+            "request": "launch",
+            "mainClass": "com.basicCoding.greatThreeNumbers",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfnumbersRange",
+            "request": "launch",
+            "mainClass": "com.basicCoding.sumOfnumbersRange",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "com.basicCoding.sumOfNaturalNumbers",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
             "name": "Launch greaternumber",
             "request": "launch",
             "mainClass": "com.basicCoding.greaternumber",
