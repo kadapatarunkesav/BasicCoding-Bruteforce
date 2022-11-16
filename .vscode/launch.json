@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch greaternumber",
+            "request": "launch",
+            "mainClass": "com.basicCoding.greaternumber",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong_number",
+            "request": "launch",
+            "mainClass": "com.basicCoding.armstrong_number",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenOrOdd",
+            "request": "launch",
+            "mainClass": "com.basicCoding.evenOrOdd",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch positveOrNegativeNumber",
+            "request": "launch",
+            "mainClass": "com.basicCoding.positveOrNegativeNumber",
+            "projectName": "DSA_859af820"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DSA",
+            "request": "launch",
+            "mainClass": "com.tarun.DSA",
+            "projectName": "DSA_859af820"
+        }
+    ]
+}
